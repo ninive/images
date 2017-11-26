@@ -1,0 +1,19 @@
+.outer-block {
+  border: 1px solid;
+  height: 100px;
+  width: 400px;
+  display: block;
+  text-align: center;
+  line-heignt: 10px;
+  background-color: #f8f8f8;
+}
+.inner-block {
+  border: 1px dashed;
+  width: 350px;
+  height: 60px;
+  display: block;
+  text-align: center;
+  margin: 0px auto;
+  line-height: 60px;
+  background-color: #a6b6c7;
+}
